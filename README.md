@@ -1,7 +1,7 @@
 # Financial Transaction Monitoring System (FTMS)
 
 ## 📌 Overview
-The Financial Transaction Monitoring System (FTMS) is an end-to-end data engineering project designed to process and analyze large-scale financial transaction data for fraud detection and business insights. The system processes 6M+ records using a scalable lakehouse architecture and delivers curated insights for reporting and analytics.
+The Financial Transaction Monitoring System (FTMS) is an end-to-end data engineering project designed to process and analyze large-scale financial transaction data for fraud detection and business insights. The system processes records using a scalable lakehouse architecture and delivers curated insights for reporting and analytics.
 
 The system is designed like a real banking data pipeline used for monitoring customer transactions and identifying suspicious activities.
 
@@ -30,8 +30,6 @@ This helps banks reduce fraud losses and improve customer security.
 ---
 
 ## 📊 Dataset
-
-- 6 Million synthetic transaction records  
 - 12 columns including:
   - transaction details
   - customer info
