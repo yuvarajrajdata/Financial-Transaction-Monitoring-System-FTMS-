@@ -71,6 +71,11 @@ A simple risk scoring method is used to mark potential fraud cases.
 - Daily financial insights  
 
 ---
+## 📌 Future Enhancements
+
+- Real-time streaming using Kafka  
+- ML-based fraud detection model   
+- API layer for serving analytics  
 
 ## 🎯 Goal of the Project
 
